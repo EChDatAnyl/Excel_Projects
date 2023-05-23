@@ -1,0 +1,611 @@
+user_id,item_id,shop_id,rating,item_name,city
+6,2022,1939,1,Kentang mentega,Kab. Bogor
+16,2022,1939,1,Kentang mentega,Kab. Bogor
+1,3620,4530,1.1,Pisang raja,Kota Malang
+4,1467,3949,1.1,Timun jepang,Jakarta Pusat
+5,2084,3577,1.1,Mangga golek,Kota Bandung
+5,1368,3223,1.1,Chandler,Kota Bandung
+8,1854,3772,1.1,Mangga apel,Kota Bandung
+8,3094,3837,1.1,Mangga alpukat,Kab. Bogor
+8,4293,2324,1.1,Jeruk baby,Kota Malang
+9,1685,2243,1.1,Kentang merah,Kota Malang
+10,3534,4749,1.1,Wortel nantes,Jakarta Pusat
+10,3664,3890,1.1,Timun lalap,Kota Bandung
+11,3620,4530,1.1,Pisang raja,Kota Malang
+14,1467,3949,1.1,Timun jepang,Jakarta Pusat
+15,2084,3577,1.1,Mangga golek,Kota Bandung
+15,1368,3223,1.1,Chandler,Kota Bandung
+18,1854,3772,1.1,Mangga apel,Kota Bandung
+18,3094,3837,1.1,Mangga alpukat,Kab. Bogor
+18,4293,2324,1.1,Jeruk baby,Kota Malang
+19,1685,2243,1.1,Kentang merah,Kota Malang
+19,3534,4749,1.1,Wortel nantes,Jakarta Pusat
+20,3664,3890,1.1,Timun lalap,Kota Bandung
+1,3279,3512,1.2,Apel merah,Kota Bandung
+1,1767,4916,1.2,Pisang tanduk,Kota Bandung
+2,1472,1855,1.2,Sweet charlie,Kota Malang
+4,2643,1904,1.2,Apel rome beauty,Kota Malang
+5,3811,1871,1.2,Mangga manalagi,Kota Malang
+5,1527,2073,1.2,Holibert,Kota Malang
+7,4974,1621,1.2,Timun suri,Kab. Bogor
+7,3279,3512,1.2,Apel merah,Kota Bandung
+11,3279,3512,1.2,Apel merah,Kota Bandung
+11,1767,4916,1.2,Pisang tanduk,Kota Bandung
+12,1472,1855,1.2,Sweet charlie,Kota Malang
+14,2643,1904,1.2,Apel rome beauty,Kota Malang
+15,3811,1871,1.2,Mangga manalagi,Kota Malang
+15,1527,2073,1.2,Holibert,Kota Malang
+17,4974,1621,1.2,Timun suri,Kab. Bogor
+17,3279,3512,1.2,Apel merah,Kota Bandung
+20,3279,3512,1.2,Apel merah,Kota Bandung
+1,1563,2071,1.3,Pisang kepok,Kab. Bogor
+2,1900,1196,1.3,Kentang putih,Kab. Bogor
+3,4863,3916,1.3,Paprika ungu,Kota Bandung
+4,3279,3512,1.3,Apel merah,Kota Bandung
+4,4868,2513,1.3,Pisang mas,Kota Malang
+5,1884,4836,1.3,Mangga Indramayu,Kab. Bogor
+5,3110,4709,1.3,Jeruk bali jumbo,Jakarta Pusat
+6,3698,3348,1.3,Tomat seger,Kota Malang
+7,2857,2790,1.3,Timun jepang,Kota Malang
+8,1293,1588,1.3,Pisang lampung,Jakarta Pusat
+8,3224,3859,1.3,Mangga garifta,Kota Malang
+9,3898,1927,1.3,Wortel nantes,Kab. Bogor
+11,1563,2071,1.3,Pisang kepok,Kab. Bogor
+12,1900,1196,1.3,Kentang putih,Kab. Bogor
+13,4863,3916,1.3,Paprika ungu,Kota Bandung
+14,3279,3512,1.3,Apel merah,Kota Bandung
+14,4868,2513,1.3,Pisang mas,Kota Malang
+15,1884,4836,1.3,Mangga Indramayu,Kab. Bogor
+15,3110,4709,1.3,Jeruk bali jumbo,Jakarta Pusat
+16,3698,3348,1.3,Tomat seger,Kota Malang
+17,2857,2790,1.3,Timun jepang,Kota Malang
+18,1293,1588,1.3,Pisang lampung,Jakarta Pusat
+18,3224,3859,1.3,Mangga garifta,Kota Malang
+19,3898,1927,1.3,Wortel nantes,Kab. Bogor
+1,4675,1574,1.4,Apel wanglin,Kab. Bogor
+3,3898,1927,1.4,Wortel nantes,Kab. Bogor
+4,4267,2736,1.4,Timun mini,Kota Bandung
+7,1254,3083,1.4,Pisang madu,Kab. Bogor
+9,2022,1939,1.4,Kentang mentega,Kab. Bogor
+9,1397,4552,1.4,Wortel chantenay,Jakarta Pusat
+10,2837,4207,1.4,Paprika kuning,Jakarta Pusat
+10,2525,4679,1.4,Paprika oranye,Kab. Bogor
+11,4675,1574,1.4,Apel wanglin,Kab. Bogor
+13,3898,1927,1.4,Wortel nantes,Kab. Bogor
+14,4267,2736,1.4,Timun mini,Kota Bandung
+17,1254,3083,1.4,Pisang madu,Kab. Bogor
+19,2022,1939,1.4,Kentang mentega,Kab. Bogor
+19,1397,4552,1.4,Wortel chantenay,Jakarta Pusat
+20,2837,4207,1.4,Paprika kuning,Jakarta Pusat
+20,2525,4679,1.4,Paprika oranye,Kab. Bogor
+20,4675,1574,1.4,Apel wanglin,Kab. Bogor
+1,2971,3599,1.5,Pisang klutuk,Kota Malang
+1,1884,4836,1.5,Mangga Indramayu,Kab. Bogor
+2,4590,4604,1.5,California,Kab. Bogor
+2,3698,3348,1.5,Tomat seger,Kota Malang
+3,2022,1939,1.5,Kentang mentega,Kab. Bogor
+3,1594,2918,1.5,Paprika hijau,Kab. Bogor
+3,2061,1439,1.5,Paprika ungu,Kota Malang
+4,2153,1911,1.5,Apel fuji,Kota Malang
+4,1152,1328,1.5,Pisang susu,Kab. Bogor
+5,2750,3037,1.5,Tristar,Kab. Bogor
+6,4390,4997,1.5,Wortel imperator,Kota Malang
+6,2090,4672,1.5,Wortel imperator,Kota Bandung
+6,2881,1250,1.5,Wortel chantenay,Kota Malang
+7,1044,1579,1.5,Pisang uli,Kota Bandung
+8,2165,4379,1.5,Mangga gedong gincu,Jakarta Pusat
+8,3060,2572,1.5,Mangga malibu,Kota Bandung
+8,4517,4292,1.5,Jeruk peras,Kota Bandung
+11,2971,3599,1.5,Pisang klutuk,Kota Malang
+11,1884,4836,1.5,Mangga Indramayu,Kab. Bogor
+12,4590,4604,1.5,California,Kab. Bogor
+12,3698,3348,1.5,Tomat seger,Kota Malang
+13,2022,1939,1.5,Kentang mentega,Kab. Bogor
+13,1594,2918,1.5,Paprika hijau,Kab. Bogor
+13,2061,1439,1.5,Paprika ungu,Kota Malang
+14,2153,1911,1.5,Apel fuji,Kota Malang
+14,1152,1328,1.5,Pisang susu,Kab. Bogor
+15,2750,3037,1.5,Tristar,Kab. Bogor
+16,4390,4997,1.5,Wortel imperator,Kota Malang
+16,2090,4672,1.5,Wortel imperator,Kota Bandung
+16,2881,1250,1.5,Wortel chantenay,Kota Malang
+17,1044,1579,1.5,Pisang uli,Kota Bandung
+18,2165,4379,1.5,Mangga gedong gincu,Jakarta Pusat
+18,3060,2572,1.5,Mangga malibu,Kota Bandung
+18,4517,4292,1.5,Jeruk peras,Kota Bandung
+3,4804,3750,1.6,Kentang kuning,Kota Malang
+9,1527,2073,1.6,Holibert,Kota Malang
+10,2857,2790,1.6,Timun jepang,Kota Malang
+10,4974,1621,1.6,Timun suri,Kab. Bogor
+13,4804,3750,1.6,Kentang kuning,Kota Malang
+18,1527,2073,1.6,Holibert,Kota Malang
+20,2857,2790,1.6,Timun jepang,Kota Malang
+20,4974,1621,1.6,Timun suri,Kab. Bogor
+2,4453,3798,1.7,Tomat ceri,Jakarta Pusat
+3,3770,3817,1.7,Paprika oranye,Jakarta Pusat
+6,3898,1927,1.7,Wortel nantes,Kab. Bogor
+6,3135,3109,1.7,Paprika kuning,Kota Malang
+7,1467,2876,1.7,Timun lokal,Kota Bandung
+12,4453,3798,1.7,Tomat ceri,Jakarta Pusat
+13,3770,3817,1.7,Paprika oranye,Jakarta Pusat
+16,3898,1927,1.7,Wortel nantes,Kab. Bogor
+16,3135,3109,1.7,Paprika kuning,Kota Malang
+17,1467,2876,1.7,Timun lokal,Kota Bandung
+1,4010,4404,1.8,Mangga arumanis,Kota Malang
+4,1254,3083,1.8,Pisang madu,Kab. Bogor
+7,3212,2169,1.8,Timun mini,Kab. Bogor
+11,4010,4404,1.8,Mangga arumanis,Kota Malang
+14,1254,3083,1.8,Pisang madu,Kab. Bogor
+17,3212,2169,1.8,Timun mini,Kab. Bogor
+8,2914,4295,1.9,Howokaze,Kota Malang
+18,2914,4295,1.9,Howokaze,Kota Malang
+1,3811,1871,2,Mangga manalagi,Kota Malang
+2,2540,3014,2,Oso grande,Jakarta Pusat
+3,1685,2243,2,Kentang merah,Kota Malang
+3,4098,2182,2,Kentang merah,Jakarta Pusat
+5,1881,1893,2,Mencir,Jakarta Pusat
+8,1074,1441,2,Jeruk medan,Kota Bandung
+10,1467,3949,2,Timun jepang,Jakarta Pusat
+11,3811,1871,2,Mangga manalagi,Kota Malang
+12,2540,3014,2,Oso grande,Jakarta Pusat
+13,1685,2243,2,Kentang merah,Kota Malang
+13,4098,2182,2,Kentang merah,Jakarta Pusat
+15,1881,1893,2,Mencir,Jakarta Pusat
+18,1074,1441,2,Jeruk medan,Kota Bandung
+20,1467,3949,2,Timun jepang,Jakarta Pusat
+3,2531,1243,2.1,Paprika hijau,Kota Bandung
+4,2165,4379,2.1,Mangga gedong gincu,Jakarta Pusat
+5,3060,2572,2.1,Mangga malibu,Kota Bandung
+6,3078,2880,2.1,Kentang putih,Kota Bandung
+6,3029,2439,2.1,Wortel mini,Kota Malang
+9,3618,2011,2.1,Tomat jumbo,Kota Bandung
+9,3154,2312,2.1,Tomat lokal,Kab. Bogor
+13,2531,1243,2.1,Paprika hijau,Kota Bandung
+14,2165,4379,2.1,Mangga gedong gincu,Jakarta Pusat
+15,3060,2572,2.1,Mangga malibu,Kota Bandung
+16,3078,2880,2.1,Kentang putih,Kota Bandung
+16,3029,2439,2.1,Wortel mini,Kota Malang
+19,3618,2011,2.1,Tomat jumbo,Kota Bandung
+19,3154,2312,2.1,Tomat lokal,Kab. Bogor
+3,3534,4749,2.2,Wortel nantes,Jakarta Pusat
+4,4675,1574,2.2,Apel wanglin,Kab. Bogor
+4,4171,1943,2.2,Apel fuji,Jakarta Pusat
+6,3618,2011,2.2,Tomat jumbo,Kota Bandung
+9,4126,1054,2.2,Tomat ceri,Kota Malang
+9,3627,3016,2.2,Kentang mentega,Kota Bandung
+10,2684,1967,2.2,Timun suri,Jakarta Pusat
+13,3534,4749,2.2,Wortel nantes,Jakarta Pusat
+14,4675,1574,2.2,Apel wanglin,Kab. Bogor
+14,4171,1943,2.2,Apel fuji,Jakarta Pusat
+15,3618,2011,2.2,Tomat jumbo,Kota Bandung
+19,4126,1054,2.2,Tomat ceri,Kota Malang
+19,3627,3016,2.2,Kentang mentega,Kota Bandung
+20,2684,1967,2.2,Timun suri,Jakarta Pusat
+2,3397,2064,2.3,Jeruk manis,Kab. Bogor
+3,2196,3720,2.3,Kentang kuning,Kota Bandung
+5,4293,2324,2.3,Jeruk baby,Kota Malang
+5,1472,1855,2.3,Sweet charlie,Kota Malang
+7,4327,1968,2.3,Apel rome beauty,Kota Bandung
+8,3397,2064,2.3,Jeruk manis,Kab. Bogor
+12,3397,2064,2.3,Jeruk manis,Kab. Bogor
+12,2196,3720,2.3,Kentang kuning,Kota Bandung
+15,4293,2324,2.3,Jeruk baby,Kota Malang
+15,1472,1855,2.3,Sweet charlie,Kota Malang
+17,4327,1968,2.3,Apel rome beauty,Kota Bandung
+18,3397,2064,2.3,Jeruk manis,Kab. Bogor
+1,3060,2572,2.4,Mangga malibu,Kota Bandung
+3,3078,2880,2.4,Kentang putih,Kota Bandung
+6,2196,3720,2.4,Kentang kuning,Kota Bandung
+7,3664,3890,2.4,Timun lalap,Kota Bandung
+7,3578,1590,2.4,Apel merah ,Kab. Bogor
+8,2323,2627,2.4,Jeruk import,Kab. Bogor
+10,3770,3817,2.4,Paprika oranye,Jakarta Pusat
+11,3060,2572,2.4,Mangga malibu,Kota Bandung
+13,3078,2880,2.4,Kentang putih,Kota Bandung
+16,2196,3720,2.4,Kentang kuning,Kota Bandung
+17,3664,3890,2.4,Timun lalap,Kota Bandung
+17,3578,1590,2.4,Apel merah ,Kab. Bogor
+18,2323,2627,2.4,Jeruk import,Kab. Bogor
+20,3770,3817,2.4,Paprika oranye,Jakarta Pusat
+1,3578,1590,2.5,Apel merah ,Kab. Bogor
+5,2527,3076,2.5,Jeruk nipis,Kota Bandung
+5,2816,3026,2.5,Rosa linda,Kab. Bogor
+6,3627,3016,2.5,Kentang mentega,Kota Bandung
+7,3205,1447,2.5,Paprika merah,Kota Malang
+7,2643,1904,2.5,Apel rome beauty,Kota Malang
+9,3295,4192,2.5,Tomat madu,Kab. Bogor
+9,1900,1196,2.5,Kentang putih,Kab. Bogor
+9,2196,3720,2.5,Kentang kuning,Kota Bandung
+9,4098,2182,2.5,Kentang merah,Jakarta Pusat
+10,1783,3618,2.5,Timun lokal,Kab. Bogor
+11,3578,1590,2.5,Apel merah ,Kab. Bogor
+15,2527,3076,2.5,Jeruk nipis,Kota Bandung
+15,2816,3026,2.5,Rosa linda,Kab. Bogor
+16,3627,3016,2.5,Kentang mentega,Kota Bandung
+16,3205,1447,2.5,Paprika merah,Kota Malang
+17,2643,1904,2.5,Apel rome beauty,Kota Malang
+19,3295,4192,2.5,Tomat madu,Kab. Bogor
+19,1900,1196,2.5,Kentang putih,Kab. Bogor
+19,2196,3720,2.5,Kentang kuning,Kota Bandung
+19,4098,2182,2.5,Kentang merah,Jakarta Pusat
+20,1783,3618,2.5,Timun lokal,Kab. Bogor
+20,3578,1590,2.5,Apel merah ,Kab. Bogor
+2,3154,2312,2.6,Tomat lokal,Kab. Bogor
+8,1152,1328,2.6,Pisang susu,Kab. Bogor
+8,1368,3223,2.6,Chandler,Kota Bandung
+9,4804,3750,2.6,Kentang kuning,Kota Malang
+10,3135,3109,2.6,Paprika kuning,Kota Malang
+10,1594,2918,2.6,Paprika hijau,Kab. Bogor
+12,3154,2312,2.6,Tomat lokal,Kab. Bogor
+18,1152,1328,2.6,Pisang susu,Kab. Bogor
+18,1368,3223,2.6,Chandler,Kota Bandung
+19,4804,3750,2.6,Kentang kuning,Kota Malang
+20,3135,3109,2.6,Paprika kuning,Kota Malang
+20,1594,2918,2.6,Paprika hijau,Kab. Bogor
+2,3295,4192,2.7,Tomat madu,Kab. Bogor
+2,1644,2209,2.7,Tomat import,Kota Bandung
+3,3627,3016,2.7,Kentang mentega,Kota Bandung
+5,2153,1458,2.7,Mangga madu,Jakarta Pusat
+7,2837,4207,2.7,Paprika kuning,Jakarta Pusat
+7,4649,4530,2.7,Apel wanglin,Kota Bandung
+9,4309,1938,2.7,Tomat merah,Kota Malang
+12,3295,4192,2.7,Tomat madu,Kab. Bogor
+12,1644,2209,2.7,Tomat import,Kota Bandung
+13,3627,3016,2.7,Kentang mentega,Kota Bandung
+15,2153,1458,2.7,Mangga madu,Jakarta Pusat
+17,2837,4207,2.7,Paprika kuning,Jakarta Pusat
+17,4649,4530,2.7,Apel wanglin,Kota Bandung
+19,4309,1938,2.7,Tomat merah,Kota Malang
+1,4327,1968,2.8,Apel rome beauty,Kota Bandung
+1,2153,1911,2.8,Apel fuji,Kota Malang
+4,1854,3772,2.8,Mangga apel,Kota Bandung
+5,3094,3837,2.8,Mangga alpukat,Kab. Bogor
+6,2217,4660,2.8,Paprika merah,Kota Bandung
+7,3728,3131,2.8,Apel manalagi,Kab. Bogor
+8,1816,3228,2.8,Nyoho,Kota Bandung
+9,4023,4033,2.8,Tomat hijau,Jakarta Pusat
+10,2531,1243,2.8,Paprika hijau,Kota Bandung
+11,4327,1968,2.8,Apel rome beauty,Kota Bandung
+11,2153,1911,2.8,Apel fuji,Kota Malang
+14,1854,3772,2.8,Mangga apel,Kota Bandung
+14,3094,3837,2.8,Mangga alpukat,Kab. Bogor
+16,2217,4660,2.8,Paprika merah,Kota Bandung
+17,3728,3131,2.8,Apel manalagi,Kab. Bogor
+18,1816,3228,2.8,Nyoho,Kota Bandung
+19,4023,4033,2.8,Tomat hijau,Jakarta Pusat
+20,2531,1243,2.8,Paprika hijau,Kota Bandung
+20,4327,1968,2.8,Apel rome beauty,Kota Bandung
+20,2153,1911,2.8,Apel fuji,Kota Malang
+2,1816,3228,2.9,Nyoho,Kota Bandung
+4,3728,3131,2.9,Apel manalagi,Kab. Bogor
+6,1900,1196,2.9,Kentang putih,Kab. Bogor
+6,4863,3916,2.9,Paprika ungu,Kota Bandung
+8,3717,1542,2.9,Jeruk lemon,Kota Malang
+8,1472,1855,2.9,Sweet charlie,Kota Malang
+8,2540,3014,2.9,Oso grande,Jakarta Pusat
+12,1816,3228,2.9,Nyoho,Kota Bandung
+14,3728,3131,2.9,Apel manalagi,Kab. Bogor
+16,1900,1196,2.9,Kentang putih,Kab. Bogor
+16,4863,3916,2.9,Paprika ungu,Kota Bandung
+18,3717,1542,2.9,Jeruk lemon,Kota Malang
+18,1472,1855,2.9,Sweet charlie,Kota Malang
+18,2540,3014,2.9,Oso grande,Jakarta Pusat
+1,1293,1588,3,Pisang lampung,Jakarta Pusat
+1,1152,1328,3,Pisang susu,Kab. Bogor
+3,2881,1250,3,Wortel chantenay,Kota Malang
+3,4757,4893,3,Wortel danvers,Kab. Bogor
+3,3664,3890,3,Timun lalap,Kota Bandung
+4,2971,3599,3,Pisang klutuk,Kota Malang
+7,4070,4787,3,Timun lalap,Kota Malang
+9,2881,1250,3,Wortel chantenay,Kota Malang
+10,4757,4893,3,Wortel danvers,Kab. Bogor
+11,1293,1588,3,Pisang lampung,Jakarta Pusat
+11,1152,1328,3,Pisang susu,Kab. Bogor
+13,2881,1250,3,Wortel chantenay,Kota Malang
+13,4757,4893,3,Wortel danvers,Kab. Bogor
+13,3664,3890,3,Timun lalap,Kota Bandung
+14,2971,3599,3,Pisang klutuk,Kota Malang
+17,4070,4787,3,Timun lalap,Kota Malang
+19,2881,1250,3,Wortel chantenay,Kota Malang
+20,4757,4893,3,Wortel danvers,Kab. Bogor
+1,1254,3083,3.1,Pisang madu,Kab. Bogor
+1,4868,2513,3.1,Pisang mas,Kota Malang
+3,3205,1447,3.1,Paprika merah,Kota Malang
+5,2884,1910,3.1,Tomat baby,Kota Bandung
+6,4453,3798,3.1,Tomat ceri,Jakarta Pusat
+6,4757,4893,3.1,Wortel danvers,Kab. Bogor
+9,2884,1910,3.1,Tomat baby,Kota Bandung
+9,1644,2209,3.1,Tomat import,Kota Bandung
+10,1467,2876,3.1,Timun lokal,Kota Bandung
+11,1254,3083,3.1,Pisang madu,Kab. Bogor
+11,4868,2513,3.1,Pisang mas,Kota Malang
+13,3205,1447,3.1,Paprika merah,Kota Malang
+15,2884,1910,3.1,Tomat baby,Kota Bandung
+16,4453,3798,3.1,Tomat ceri,Jakarta Pusat
+16,4757,4893,3.1,Wortel danvers,Kab. Bogor
+19,2884,1910,3.1,Tomat baby,Kota Bandung
+19,1644,2209,3.1,Tomat import,Kota Bandung
+20,1467,2876,3.1,Timun lokal,Kota Bandung
+2,1881,1893,3.2,Mencir,Jakarta Pusat
+3,2090,4672,3.2,Wortel imperator,Kota Bandung
+5,4517,4292,3.2,Jeruk peras,Kota Bandung
+5,4590,4604,3.2,California,Kab. Bogor
+6,3770,3817,3.2,Paprika oranye,Jakarta Pusat
+7,4675,1574,3.2,Apel wanglin,Kab. Bogor
+7,4868,2513,3.2,Pisang mas,Kota Malang
+8,2750,3037,3.2,Tristar,Kab. Bogor
+9,2090,4672,3.2,Wortel imperator,Kota Bandung
+12,1881,1893,3.2,Mencir,Jakarta Pusat
+13,2090,4672,3.2,Wortel imperator,Kota Bandung
+15,4517,4292,3.2,Jeruk peras,Kota Bandung
+15,4590,4604,3.2,California,Kab. Bogor
+16,3770,3817,3.2,Paprika oranye,Jakarta Pusat
+17,4675,1574,3.2,Apel wanglin,Kab. Bogor
+17,4868,2513,3.2,Pisang mas,Kota Malang
+18,2750,3037,3.2,Tristar,Kab. Bogor
+19,2090,4672,3.2,Wortel imperator,Kota Bandung
+1,1233,2339,3.3,Pisang ambon,Jakarta Pusat
+2,4023,4033,3.3,Tomat hijau,Jakarta Pusat
+6,4126,1054,3.3,Tomat ceri,Kota Malang
+7,3620,4530,3.3,Pisang raja,Kota Malang
+8,1884,4836,3.3,Mangga Indramayu,Kab. Bogor
+8,2084,3577,3.3,Mangga golek,Kota Bandung
+10,2061,1439,3.3,Paprika ungu,Kota Malang
+10,4070,4787,3.3,Timun lalap,Kota Malang
+11,1233,2339,3.3,Pisang ambon,Jakarta Pusat
+12,4023,4033,3.3,Tomat hijau,Jakarta Pusat
+16,4126,1054,3.3,Tomat ceri,Kota Malang
+17,3620,4530,3.3,Pisang raja,Kota Malang
+18,1884,4836,3.3,Mangga Indramayu,Kab. Bogor
+18,2084,3577,3.3,Mangga golek,Kota Bandung
+20,2061,1439,3.3,Paprika ungu,Kota Malang
+20,4070,4787,3.3,Timun lalap,Kota Malang
+2,2750,3037,3.4,Tristar,Kab. Bogor
+6,4897,1628,3.4,Wortel danvers,Kota Bandung
+7,1223,1579,3.4,Apel manalagi,Jakarta Pusat
+10,4267,2736,3.4,Timun mini,Kota Bandung
+12,2750,3037,3.4,Tristar,Kab. Bogor
+16,4897,1628,3.4,Wortel danvers,Kota Bandung
+17,1223,1579,3.4,Apel manalagi,Jakarta Pusat
+20,4267,2736,3.4,Timun mini,Kota Bandung
+2,4242,1715,3.5,Jeruk bali,Kab. Bogor
+2,2323,2627,3.5,Jeruk import,Kab. Bogor
+2,3618,2011,3.5,Tomat jumbo,Kota Bandung
+3,1397,4552,3.5,Wortel chantenay,Jakarta Pusat
+3,1783,3618,3.5,Timun lokal,Kab. Bogor
+4,1044,1579,3.5,Pisang uli,Kota Bandung
+6,2875,4145,3.5,Kentang mini,Jakarta Pusat
+8,2153,1458,3.5,Mangga madu,Jakarta Pusat
+9,4897,1628,3.5,Wortel danvers,Kota Bandung
+10,4863,3916,3.5,Paprika ungu,Kota Bandung
+11,4242,1715,3.5,Jeruk bali,Kab. Bogor
+12,2323,2627,3.5,Jeruk import,Kab. Bogor
+12,3618,2011,3.5,Tomat jumbo,Kota Bandung
+13,1397,4552,3.5,Wortel chantenay,Jakarta Pusat
+13,1783,3618,3.5,Timun lokal,Kab. Bogor
+14,1044,1579,3.5,Pisang uli,Kota Bandung
+16,2875,4145,3.5,Kentang mini,Jakarta Pusat
+18,2153,1458,3.5,Mangga madu,Jakarta Pusat
+19,4897,1628,3.5,Wortel danvers,Kota Bandung
+20,4863,3916,3.5,Paprika ungu,Kota Bandung
+2,4309,1938,3.6,Tomat merah,Kota Malang
+4,1223,1579,3.6,Apel manalagi,Jakarta Pusat
+5,4309,1938,3.6,Tomat merah,Kota Malang
+6,1397,4552,3.6,Wortel chantenay,Jakarta Pusat
+7,2061,1439,3.6,Paprika ungu,Kota Malang
+9,3078,2880,3.6,Kentang putih,Kota Bandung
+9,1125,2956,3.6,Wortel local,Kab. Bogor
+12,4309,1938,3.6,Tomat merah,Kota Malang
+14,1223,1579,3.6,Apel manalagi,Jakarta Pusat
+15,4309,1938,3.6,Tomat merah,Kota Malang
+16,1397,4552,3.6,Wortel chantenay,Jakarta Pusat
+17,2061,1439,3.6,Paprika ungu,Kota Malang
+19,3078,2880,3.6,Kentang putih,Kota Bandung
+19,1125,2956,3.6,Wortel local,Kab. Bogor
+2,2527,3076,3.7,Jeruk nipis,Kota Bandung
+2,1074,1441,3.7,Jeruk medan,Kota Bandung
+4,2684,1967,3.7,Timun suri,Jakarta Pusat
+4,1467,2876,3.7,Timun lokal,Kota Bandung
+7,2525,4679,3.7,Paprika oranye,Kab. Bogor
+7,4267,2736,3.7,Timun mini,Kota Bandung
+8,3110,4709,3.7,Jeruk bali jumbo,Jakarta Pusat
+9,3698,3348,3.7,Tomat seger,Kota Malang
+10,2217,4660,3.7,Paprika merah,Kota Bandung
+12,2527,3076,3.7,Jeruk nipis,Kota Bandung
+12,1074,1441,3.7,Jeruk medan,Kota Bandung
+14,2684,1967,3.7,Timun suri,Jakarta Pusat
+14,1467,2876,3.7,Timun lokal,Kota Bandung
+17,2525,4679,3.7,Paprika oranye,Kab. Bogor
+17,4267,2736,3.7,Timun mini,Kota Bandung
+18,3110,4709,3.7,Jeruk bali jumbo,Jakarta Pusat
+19,3698,3348,3.7,Tomat seger,Kota Malang
+20,2217,4660,3.7,Paprika merah,Kota Bandung
+3,3029,2439,3.8,Wortel mini,Kota Malang
+4,2857,2790,3.8,Timun jepang,Kota Malang
+5,3224,3859,3.8,Mangga garifta,Kota Malang
+6,1685,2243,3.8,Kentang merah,Kota Malang
+6,4699,2333,3.8,Kentang mini,Kab. Bogor
+6,1594,2918,3.8,Paprika hijau,Kab. Bogor
+8,2971,3599,3.8,Pisang klutuk,Kota Malang
+13,3029,2439,3.8,Wortel mini,Kota Malang
+13,2857,2790,3.8,Timun jepang,Kota Malang
+15,3224,3859,3.8,Mangga garifta,Kota Malang
+16,1685,2243,3.8,Kentang merah,Kota Malang
+16,4699,2333,3.8,Kentang mini,Kab. Bogor
+16,1594,2918,3.8,Paprika hijau,Kab. Bogor
+18,2971,3599,3.8,Pisang klutuk,Kota Malang
+1,1223,1579,3.9,Apel manalagi,Jakarta Pusat
+2,3110,4709,3.9,Jeruk bali jumbo,Jakarta Pusat
+4,1767,4916,3.9,Pisang tanduk,Kota Bandung
+5,2540,3014,3.9,Oso grande,Jakarta Pusat
+5,3295,4192,3.9,Tomat madu,Kab. Bogor
+6,4804,3750,3.9,Kentang kuning,Kota Malang
+7,4171,1943,3.9,Apel fuji,Jakarta Pusat
+9,4453,3798,3.9,Tomat ceri,Jakarta Pusat
+9,3029,2439,3.9,Wortel mini,Kota Malang
+11,1223,1579,3.9,Apel manalagi,Jakarta Pusat
+12,3110,4709,3.9,Jeruk bali jumbo,Jakarta Pusat
+14,1767,4916,3.9,Pisang tanduk,Kota Bandung
+15,2540,3014,3.9,Oso grande,Jakarta Pusat
+15,3295,4192,3.9,Tomat madu,Kab. Bogor
+16,4804,3750,3.9,Kentang kuning,Kota Malang
+17,4171,1943,3.9,Apel fuji,Jakarta Pusat
+19,4453,3798,3.9,Tomat ceri,Jakarta Pusat
+19,3029,2439,3.9,Wortel mini,Kota Malang
+20,1223,1579,3.9,Apel manalagi,Jakarta Pusat
+4,3620,4530,4,Pisang raja,Kota Malang
+5,2914,4295,4,Howokaze,Kota Malang
+6,3154,2312,4,Tomat lokal,Kab. Bogor
+7,2153,1911,4,Apel fuji,Kota Malang
+14,3620,4530,4,Pisang raja,Kota Malang
+15,2914,4295,4,Howokaze,Kota Malang
+16,3154,2312,4,Tomat lokal,Kab. Bogor
+17,2153,1911,4,Apel fuji,Kota Malang
+1,2165,4379,4.1,Mangga gedong gincu,Jakarta Pusat
+2,4293,2324,4.1,Jeruk baby,Kota Malang
+4,1233,2339,4.1,Pisang ambon,Jakarta Pusat
+5,4023,4033,4.1,Tomat hijau,Jakarta Pusat
+6,1644,2209,4.1,Tomat import,Kota Bandung
+6,1125,2956,4.1,Wortel local,Kab. Bogor
+7,1563,2071,4.1,Pisang kepok,Kab. Bogor
+9,1881,1893,4.1,Mencir,Jakarta Pusat
+11,2165,4379,4.1,Mangga gedong gincu,Jakarta Pusat
+12,4293,2324,4.1,Jeruk baby,Kota Malang
+14,1233,2339,4.1,Pisang ambon,Jakarta Pusat
+15,4023,4033,4.1,Tomat hijau,Jakarta Pusat
+16,1644,2209,4.1,Tomat import,Kota Bandung
+16,1125,2956,4.1,Wortel local,Kab. Bogor
+17,1563,2071,4.1,Pisang kepok,Kab. Bogor
+19,1881,1893,4.1,Mencir,Jakarta Pusat
+1,4171,1943,4.2,Apel fuji,Jakarta Pusat
+1,1854,3772,4.2,Mangga apel,Kota Bandung
+2,4126,1054,4.2,Tomat ceri,Kota Malang
+3,1125,2956,4.2,Wortel local,Kab. Bogor
+4,4010,4404,4.2,Mangga arumanis,Kota Malang
+5,3397,2064,4.2,Jeruk manis,Kab. Bogor
+11,4171,1943,4.2,Apel fuji,Jakarta Pusat
+11,1854,3772,4.2,Mangga apel,Kota Bandung
+12,4126,1054,4.2,Tomat ceri,Kota Malang
+13,1125,2956,4.2,Wortel local,Kab. Bogor
+14,4010,4404,4.2,Mangga arumanis,Kota Malang
+15,3397,2064,4.2,Jeruk manis,Kab. Bogor
+20,4171,1943,4.2,Apel fuji,Jakarta Pusat
+1,2643,1904,4.3,Apel rome beauty,Kota Malang
+1,2084,3577,4.3,Mangga golek,Kota Bandung
+3,2217,4660,4.3,Paprika merah,Kota Bandung
+4,4649,4530,4.3,Apel wanglin,Kota Bandung
+5,3428,3774,4.3,Jeruk purut,Jakarta Pusat
+5,2323,2627,4.3,Jeruk import,Kab. Bogor
+7,2684,1967,4.3,Timun suri,Jakarta Pusat
+10,3205,1447,4.3,Paprika merah,Kota Malang
+11,2643,1904,4.3,Apel rome beauty,Kota Malang
+11,2084,3577,4.3,Mangga golek,Kota Bandung
+13,2217,4660,4.3,Paprika merah,Kota Bandung
+14,4649,4530,4.3,Apel wanglin,Kota Bandung
+15,3428,3774,4.3,Jeruk purut,Jakarta Pusat
+15,2323,2627,4.3,Jeruk import,Kab. Bogor
+17,2684,1967,4.3,Timun suri,Jakarta Pusat
+20,3205,1447,4.3,Paprika merah,Kota Malang
+20,2643,1904,4.3,Apel rome beauty,Kota Malang
+2,2914,4295,4.4,Howokaze,Kota Malang
+3,2837,4207,4.4,Paprika kuning,Jakarta Pusat
+4,3578,1590,4.4,Apel merah ,Kab. Bogor
+4,4327,1968,4.4,Apel rome beauty,Kota Bandung
+4,1563,2071,4.4,Pisang kepok,Kab. Bogor
+5,3717,1542,4.4,Jeruk lemon,Kota Malang
+6,4098,2182,4.4,Kentang merah,Jakarta Pusat
+6,3534,4749,4.4,Wortel nantes,Jakarta Pusat
+7,1783,3618,4.4,Timun lokal,Kab. Bogor
+8,3811,1871,4.4,Mangga manalagi,Kota Malang
+8,2527,3076,4.4,Jeruk nipis,Kota Bandung
+9,2875,4145,4.4,Kentang mini,Jakarta Pusat
+9,4390,4997,4.4,Wortel imperator,Kota Malang
+10,3212,2169,4.4,Timun mini,Kab. Bogor
+12,2914,4295,4.4,Howokaze,Kota Malang
+13,2837,4207,4.4,Paprika kuning,Jakarta Pusat
+14,3578,1590,4.4,Apel merah ,Kab. Bogor
+14,4327,1968,4.4,Apel rome beauty,Kota Bandung
+14,1563,2071,4.4,Pisang kepok,Kab. Bogor
+15,3717,1542,4.4,Jeruk lemon,Kota Malang
+16,4098,2182,4.4,Kentang merah,Jakarta Pusat
+16,3534,4749,4.4,Wortel nantes,Jakarta Pusat
+17,1783,3618,4.4,Timun lokal,Kab. Bogor
+18,3811,1871,4.4,Mangga manalagi,Kota Malang
+18,2527,3076,4.4,Jeruk nipis,Kota Bandung
+19,2875,4145,4.4,Kentang mini,Jakarta Pusat
+19,4390,4997,4.4,Wortel imperator,Kota Malang
+20,3212,2169,4.4,Timun mini,Kab. Bogor
+1,1044,1579,4.5,Pisang uli,Kota Bandung
+2,3428,3774,4.5,Jeruk purut,Jakarta Pusat
+2,1368,3223,4.5,Chandler,Kota Bandung
+2,1527,2073,4.5,Holibert,Kota Malang
+4,3212,2169,4.5,Timun mini,Kab. Bogor
+5,1816,3228,4.5,Nyoho,Kota Bandung
+8,4242,1715,4.5,Jeruk bali,Kab. Bogor
+11,1044,1579,4.5,Pisang uli,Kota Bandung
+12,3428,3774,4.5,Jeruk purut,Jakarta Pusat
+12,1368,3223,4.5,Chandler,Kota Bandung
+12,1527,2073,4.5,Holibert,Kota Malang
+14,3212,2169,4.5,Timun mini,Kab. Bogor
+15,1816,3228,4.5,Nyoho,Kota Bandung
+18,4242,1715,4.5,Jeruk bali,Kab. Bogor
+1,2153,1458,4.6,Mangga madu,Jakarta Pusat
+2,2884,1910,4.6,Tomat baby,Kota Bandung
+3,4699,2333,4.6,Kentang mini,Kab. Bogor
+9,4699,2333,4.6,Kentang mini,Kab. Bogor
+11,2153,1458,4.6,Mangga madu,Jakarta Pusat
+12,2884,1910,4.6,Tomat baby,Kota Bandung
+13,4699,2333,4.6,Kentang mini,Kab. Bogor
+19,4699,2333,4.6,Kentang mini,Kab. Bogor
+2,4517,4292,4.7,Jeruk peras,Kota Bandung
+3,4390,4997,4.7,Wortel imperator,Kota Malang
+3,3135,3109,4.7,Paprika kuning,Kota Malang
+4,1293,1588,4.7,Pisang lampung,Jakarta Pusat
+5,4242,1715,4.7,Jeruk bali,Kab. Bogor
+7,1233,2339,4.7,Pisang ambon,Jakarta Pusat
+8,1767,4916,4.7,Pisang tanduk,Kota Bandung
+8,2816,3026,4.7,Rosa linda,Kab. Bogor
+9,4590,4604,4.7,California,Kab. Bogor
+12,4517,4292,4.7,Jeruk peras,Kota Bandung
+13,4390,4997,4.7,Wortel imperator,Kota Malang
+13,3135,3109,4.7,Paprika kuning,Kota Malang
+14,1293,1588,4.7,Pisang lampung,Jakarta Pusat
+15,4242,1715,4.7,Jeruk bali,Kab. Bogor
+17,1233,2339,4.7,Pisang ambon,Jakarta Pusat
+17,1767,4916,4.7,Pisang tanduk,Kota Bandung
+18,2816,3026,4.7,Rosa linda,Kab. Bogor
+19,4590,4604,4.7,California,Kab. Bogor
+1,3094,3837,4.8,Mangga alpukat,Kab. Bogor
+1,3224,3859,4.8,Mangga garifta,Kota Malang
+3,2525,4679,4.8,Paprika oranye,Kab. Bogor
+7,2531,1243,4.8,Paprika hijau,Kota Bandung
+8,3428,3774,4.8,Jeruk purut,Jakarta Pusat
+11,3094,3837,4.8,Mangga alpukat,Kab. Bogor
+11,3224,3859,4.8,Mangga garifta,Kota Malang
+13,2525,4679,4.8,Paprika oranye,Kab. Bogor
+17,2531,1243,4.8,Paprika hijau,Kota Bandung
+18,3428,3774,4.8,Jeruk purut,Jakarta Pusat
+1,4649,4530,4.9,Apel wanglin,Kota Bandung
+2,3717,1542,4.9,Jeruk lemon,Kota Malang
+3,2875,4145,4.9,Kentang mini,Jakarta Pusat
+4,4974,1621,4.9,Timun suri,Kab. Bogor
+7,1467,3949,4.9,Timun jepang,Jakarta Pusat
+11,4649,4530,4.9,Apel wanglin,Kota Bandung
+12,3717,1542,4.9,Jeruk lemon,Kota Malang
+13,2875,4145,4.9,Kentang mini,Jakarta Pusat
+14,4974,1621,4.9,Timun suri,Kab. Bogor
+17,1467,3949,4.9,Timun jepang,Jakarta Pusat
+20,4649,4530,4.9,Apel wanglin,Kota Bandung
+1,3728,3131,5,Apel manalagi,Kab. Bogor
+2,2816,3026,5,Rosa linda,Kab. Bogor
+3,4897,1628,5,Wortel danvers,Kota Bandung
+4,4070,4787,5,Timun lalap,Kota Malang
+5,1074,1441,5,Jeruk medan,Kota Bandung
+8,4010,4404,5,Mangga arumanis,Kota Malang
+11,3728,3131,5,Apel manalagi,Kab. Bogor
+12,2816,3026,5,Rosa linda,Kab. Bogor
+13,4897,1628,5,Wortel danvers,Kota Bandung
+14,4070,4787,5,Timun lalap,Kota Malang
+15,1074,1441,5,Jeruk medan,Kota Bandung
+18,4010,4404,5,Mangga arumanis,Kota Malang
+20,3728,3131,5,Apel manalagi,Kab. Bogor
